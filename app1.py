@@ -1,4 +1,4 @@
-a = 'Goodbye'
+a = 'Привет!'
 b = 'World'
 
 print(a,b) 
